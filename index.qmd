@@ -3,7 +3,7 @@ title: "cy350_website_tings"
 ---
 
 
-subtitle: "This is a website that does website tings, hence the name. \n Duh."
+This is a website that does website tings, hence the name. \n Duh
 
 This is a Quarto website.
 
